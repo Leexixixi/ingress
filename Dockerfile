@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.0.0@sha256:041eb167c7bfccb1d1653f194924b0c5fd885e10
+FROM k8s.gcr.io/ingress-nginx/controller:v1.0.0@sha256:ef43679c2cae7c3812814f91faa4c76de95152daa9dc6f52836f6262946f5825
